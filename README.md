@@ -1,2 +1,4 @@
-# uxdc_2017
-UX Design Clinic WN 2017 Project
+# Design Projects Repository
+1. UX Design Clinic Projects
+2. Freelance Projects
+3. Work Projects
