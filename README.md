@@ -1,4 +1,6 @@
 # Design Projects Repository
-1. UX Design Clinic Projects
-2. Freelance Projects
-3. Work Projects
+• UXDC
+  • WN17 - Find Your Ditto
+    • FYD_Final.sketch (our group's final deliverable sketch file to our client. I was responsible for the Intro, Signup, Request Meetup, and Meet Tab interfaces; quick-look screenshots have been uploaded.)
+• Freelance Projects
+• Work Projects
