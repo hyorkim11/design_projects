@@ -1,5 +1,5 @@
-# Design Projects Repository
-This repo was made to showcase my most recent design projects. Please refer to my [portfolio](https://hyorkim11.github.io/) for further details. Thank you!
+# Projects Repository
+This repo was made to showcase my most recent design & development projects. Please refer to my [portfolio](https://hyorkim11.github.io/) for further details. Thank you!
 
 ## UX Design Clinic
   * WN17 - Find Your Ditto
@@ -10,5 +10,5 @@ This repo was made to showcase my most recent design projects. Please refer to m
     * **Register** _(Onboarding/registration interfaces of the application)_
 
 ## Freelance Projects
-
-## Work Projects
+  * **Mind the Moment** _(An Android project served to Dr. Noelle Leonard of New York University for alcohol behavioral research)_ [repo link] (https://github.com/hyorkim11/empaticae4)
+  * **CPU_Temp** _(An Android project served to Dr. Taesam Kim of Northern Illinois University for device-specific thermal readings)_ [repo link] (https://github.com/hyorkim11/Cpu_temp)
