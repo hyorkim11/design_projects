@@ -10,5 +10,5 @@ This repo was made to showcase my most recent design & development projects. Ple
     * **Register** _(Onboarding/registration interfaces of the application)_
 
 ## Freelance Projects
-  * **Mind the Moment** _(An Android project served to Dr. Noelle Leonard of New York University for alcohol behavioral research)_ [repo link] (https://github.com/hyorkim11/empaticae4)
-  * **CPU_Temp** _(An Android project served to Dr. Taesam Kim of Northern Illinois University for device-specific thermal readings)_ [repo link] (https://github.com/hyorkim11/Cpu_temp)
+  * **Mind the Moment** _(An Android project served to Dr. Noelle Leonard of New York University for alcohol behavioral research)_ [repo link](https://github.com/hyorkim11/empaticae4)
+  * **CPU_Temp** _(An Android project served to Dr. Taesam Kim of Northern Illinois University for device-specific thermal readings)_ [repo link](https://github.com/hyorkim11/Cpu_temp)
